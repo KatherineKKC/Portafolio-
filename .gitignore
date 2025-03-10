@@ -1,0 +1,34 @@
+# Dependencias de Node.js
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Archivos de construcción
+dist/
+build/
+
+# Caché de Vite y otros archivos generados
+.vite/
+.vitepress/
+.cache/
+
+# Configuración del editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs y archivos del sistema
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+
+# Entorno y configuraciones locales
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
