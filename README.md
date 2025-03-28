@@ -16,8 +16,8 @@ Para habilitar Git LFS, ejecutar:
 2️⃣ Clonar el repositorio y descargar archivos grandes
 Abrir la terminal y ejecutar:
 
-    2) git clone https://github.com/KatherineKKC/Portafolio
-    3) git cd Portafolio
+    2) git clone https://github.com/KatherineKKC/Portafolio.git
+    3) cd Portafolio
     4) git lfs pull
 
 3️⃣ Instalar Vite
