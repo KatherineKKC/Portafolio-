@@ -16,7 +16,9 @@ Para habilitar Git LFS, ejecutar:
 2️⃣ Clonar el repositorio y descargar archivos grandes
 Abrir la terminal y ejecutar:
 
-    2) git clone https://github.com/KatherineKKC/Portafolio-.gitcd Portafolio-git lfs pull
+    2) git clone https://github.com/KatherineKKC/Portafolio
+    3) git cd Portafolio
+    4) git lfs pull
 
 3️⃣ Instalar Vite
 
@@ -34,12 +36,12 @@ Abrir la terminal y ejecutar:
 4️⃣ Instalar Three.js
 Ejecutar en la terminal:
      
-     3) npm install three
+     5) npm install three
 
 
 5️⃣ Ejecutar el entorno de desarrollo ejecutar: 
   
-     4) npm run dev
+     6) npm run dev
 
 
 6️⃣ Abrir el proyecto en el navegador
