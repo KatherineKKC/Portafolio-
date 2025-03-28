@@ -11,12 +11,12 @@ Implementado con la biblioteca Three.js para crear un entorno 3D interactivo.
 Descargar e instalar Git desde: https://git-scm.com/
 Para habilitar Git LFS, ejecutar:
 
-     - git lfs install
+     1) git lfs install
 
 2️⃣ Clonar el repositorio y descargar archivos grandes
 Abrir la terminal y ejecutar:
 
-    -git clone https://github.com/KatherineKKC/Portafolio-.gitcd Portafolio-git lfs pull
+    2) git clone https://github.com/KatherineKKC/Portafolio-.gitcd Portafolio-git lfs pull
 
 3️⃣ Instalar Vite
 
@@ -34,12 +34,12 @@ Abrir la terminal y ejecutar:
 4️⃣ Instalar Three.js
 Ejecutar en la terminal:
      
-     - npm install three
+     3) npm install three
 
 
 5️⃣ Ejecutar el entorno de desarrollo ejecutar: 
   
-     - npm run dev
+     4) npm run dev
 
 
 6️⃣ Abrir el proyecto en el navegador
